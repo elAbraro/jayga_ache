@@ -1,35 +1,11 @@
-# Web Framework & Core
-Flask==2.3.2
-Werkzeug==3.1.5
-Jinja2==3.1.6
-itsdangerous==2.2.0
-click==8.2.1
-blinker==1.9.0
-MarkupSafe==3.0.2
-
-# Database
-Flask-SQLAlchemy==3.0.3
-SQLAlchemy==2.0.46
-Flask-Migrate==4.0.4
-alembic==1.18.3
-psycopg2-binary==2.9.11
-
-# Auth & Forms
-Flask-Login==0.6.2
-Flask-WTF==1.1.1
-WTForms==3.2.1
-email-validator==2.3.0
-
-# Real-time (SocketIO)
-Flask-SocketIO==5.6.0
-python-socketio==5.16.1
-python-engineio==4.13.1
-simple-websocket==1.1.0
-
-# Production Server & Utils
-gunicorn==25.0.2
-gevent==23.9.1
-gevent-websocket==0.10.1
-python-dotenv==1.0.0
-greenlet==3.3.1
-typing_extensions==4.15.0
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-SocketIO
+Flask-WTF
+Flask-Login
+python-dotenv
+email-validator
+pillow
+gunicorn
+psycopg2-binary
